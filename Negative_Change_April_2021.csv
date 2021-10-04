@@ -1,0 +1,13 @@
+FID,Gut_No,Secto_No,Plot_No,Node,Division,Village,Prabhag,Shape_Leng,Shape_Area,Lattitude,Longitude,Google Map Link
+1,1c, , , ,Division 1,Adivali_PL,Prabhag 1,85.8455511343,346.889862644,19.0979590071,73.0536152284,"https://www.google.com/maps/search/?api=1&query=19.0979590071,73.0536152284"
+2,1c, , , ,Division 1,Adivali_PL,Prabhag 1,28.0050310893,49.0147554313,19.0970131349,73.055105151,"https://www.google.com/maps/search/?api=1&query=19.0970131349,73.055105151"
+3,34, , , ,Division 1,Adivali_PL,Prabhag 1,135.469071221,1030.11113306,19.1079199323,73.0636781865,"https://www.google.com/maps/search/?api=1&query=19.1079199323,73.0636781865"
+4, , , , ,Division 2,Chal,Prabhag 2,40.371138527,100.396266231,19.1036647262,73.1155407019,"https://www.google.com/maps/search/?api=1&query=19.1036647262,73.1155407019"
+5, , , , ,Division 2,Chal,Prabhag 2,50.571800816,156.011008163,19.0972522545,73.113177694,"https://www.google.com/maps/search/?api=1&query=19.0972522545,73.113177694"
+6,121, , , ,Division 1,Rohinjan,Prabhag 1,118.763748143,656.733018385,19.0897792972,73.0761685623,"https://www.google.com/maps/search/?api=1&query=19.0897792972,73.0761685623"
+7, , , , ,Division 2,Devichapada,Prabhag 2,178.137661193,1676.55812873,19.0744692014,73.1443698156,"https://www.google.com/maps/search/?api=1&query=19.0744692014,73.1443698156"
+8, ,27,93,Kharghar,Division 1,Owe,Prabhag 3,36.3271567616,67.8326841387,19.057740113,73.0774294467,"https://www.google.com/maps/search/?api=1&query=19.057740113,73.0774294467"
+9, , 44,43-3,Kharghar,Division 2,Nawade,Prabhag 2,30.5327258831,57.9139568131,19.0558588755,73.096801731,"https://www.google.com/maps/search/?api=1&query=19.0558588755,73.096801731"
+10, , , , ,Division 2,Nawade,Prabhag 2,53.1153040564,173.672714338,19.0519387322,73.1007498382,"https://www.google.com/maps/search/?api=1&query=19.0519387322,73.1007498382"
+11, ,19,94&95,Kharghar,Division 1,Kharghar (C.T.),Prabhag 4,43.7586021302,114.875576088,19.0514759669,73.079453335,"https://www.google.com/maps/search/?api=1&query=19.0514759669,73.079453335"
+12, , , , ,Division 2,Asudgoan,Prabhag 9,48.0856128543,140.342873858,19.0144197286,73.1225241416,"https://www.google.com/maps/search/?api=1&query=19.0144197286,73.1225241416"
